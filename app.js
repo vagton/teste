@@ -2,6 +2,7 @@ let SimpleWords = ["oi", "ok"];
 
 for (const element of SimpleWords) {
     console.log(element);
+    // teste de push
 }
 
 const cifrao = '\u0024'
